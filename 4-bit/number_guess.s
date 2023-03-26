@@ -1,3 +1,6 @@
+; Number guesser game: have one person input a number using the 8 dip-switches, then press a button to store the value.  Then have another
+; person try to guess the number using the dip-switches and pressing the button and the display will show if the stored value is higher or lower
+
 PORTB = $6000
 PORTA = $6001
 DDRB = $6002
