@@ -1,5 +1,5 @@
 # 6502
-Collections of assembly programs written for the 65C02 microprocessor 
+Collections of assembly programs written for the 65C02 microprocessor--based off of Ben Eater's 6502 project 
 
 4-bit folder are programs for 4-bit LCD configuration
 8-bit folder are programs for 8-bit LCD configuration
